@@ -4,10 +4,10 @@ import time
 from interstate75 import Interstate75
 
 
-ssid = 'espWifi'
-password = 'ljmu1111'
+ssid = 'SETLab'
+password = 'Techno25?'
 
-server_ip = '192.168.237.74'  
+server_ip = '10.21.10.169'  #update
 server_port = 9876
 
 i75 = Interstate75(display=Interstate75.DISPLAY_INTERSTATE75_256X64)
